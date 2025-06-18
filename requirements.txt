@@ -1,0 +1,22 @@
+
+# Core packages
+pandas
+numpy
+
+# Web scraping
+selenium
+beautifulsoup4
+requests
+lxml
+
+# Database
+sqlite3
+sqlalchemy
+
+# Dashboard & visualization
+streamlit
+matplotlib
+seaborn
+
+# For CSV handling and compatibility
+openpyxl
