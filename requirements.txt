@@ -10,7 +10,6 @@ requests
 lxml
 
 # Database
-sqlite3
 sqlalchemy
 
 # Dashboard & visualization
