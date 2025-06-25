@@ -3,6 +3,10 @@ Oldest Living Baseball Players - Web Scraping & Data Dashboard
 
 This project scrapes, processes, and visualizes data about the oldest living Major League Baseball (MLB) players. It demonstrates the use of Python for web scraping, data cleaning, SQL database management, and interactive dashboard development using Streamlit.
 
+Deployed site link:
+
+https://python-web-scraping-project.onrender.com/
+
 
 Features:
 
